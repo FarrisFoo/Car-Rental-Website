@@ -1,0 +1,2 @@
+[22-Nov-2021 14:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alrental/public_html/send.php:13) in /home3/alrental/public_html/send.php on line 26
+[26-Nov-2021 02:50:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alrental/public_html/send.php:13) in /home3/alrental/public_html/send.php on line 26
